@@ -752,3 +752,29 @@ a:hover,
   font-weight: 700;
   text-transform: uppercase;
 }
+
+.blue-head {
+  font-weight: 700;
+  font-size: 3.8rem;
+  font-family: "Oswald", sans-serif;
+  color: #4260b1;
+  text-transform: uppercase;
+}
+
+.grey-text {
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.about-page-li {
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+.about-page-li strong {
+  color: #4260b1;
+  text-transform: uppercase;
+}
